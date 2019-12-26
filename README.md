@@ -9,3 +9,12 @@ See: [script-4.txt](./doc/script/script-4.txt)
 
 Please copy and paste `script-4` to `input.txt`.  
 input.txt is in the same directory as the .exe file. input.txt is automatically generated.  
+
+## Open source
+
+[kifuwarabe-go-board-gui](https://github.com/muzudho/kifuwarabe-go-board-gui)  
+
+## See also
+
+[ScreenToGif](https://www.screentogif.com/)  
+アニメ画像作りたいとき便利☆（＾～＾） ウィンドウに吸着するし☆（＾～＾）  
