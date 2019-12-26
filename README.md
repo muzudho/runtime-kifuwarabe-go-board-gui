@@ -1,5 +1,5 @@
 # runtime-kifuwarabe-go-board-gui
-バイナリ配るぜ☆（＾～＾）
+`[Clone of download]` とかいうボタンを押して持っていけだぜ☆（＾～＾） publish フォルダーの中に .exe が入ってるからダブルクリックしろだぜ☆（＾～＾）  
 
 ## Example
 
