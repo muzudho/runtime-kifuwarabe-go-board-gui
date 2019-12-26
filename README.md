@@ -7,6 +7,9 @@
 
 See: [script-4.txt](./doc/script/script-4.txt)  
 
+**Be sure to open input.txt with Visual studio code.**  
+You can open the file without locking it.  
+
 Please copy and paste `script-4` to `input.txt`.  
 input.txt is in the same directory as the .exe file. input.txt is automatically generated.  
 
