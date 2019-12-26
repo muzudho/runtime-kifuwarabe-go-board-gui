@@ -1,11 +1,16 @@
 # runtime-kifuwarabe-go-board-gui
-![download-zip.png](./doc/img/download-zip.png) とかいうボタンを押して持っていけだぜ☆（＾～＾） publish フォルダーの中に .exe が入ってるからダブルクリックしろだぜ☆（＾～＾）  
 
-## Example
+## Demo
 
 ![script-4.png](./doc/img/script-4.png)  
 
 See: [script-4.txt](./doc/script/script-4.txt)  
+
+## How to get
+
+![download-zip.png](./doc/img/download-zip.png) とかいうボタンを押して持っていけだぜ☆（＾～＾） publish フォルダーの中に .exe が入ってるからダブルクリックしろだぜ☆（＾～＾）  
+
+## How to use
 
 **Be sure to open input.txt with Visual studio code.**  
 You can open the file without locking it.  
