@@ -1,5 +1,5 @@
 # runtime-kifuwarabe-go-board-gui
-`[Clone of download]` とかいうボタンを押して持っていけだぜ☆（＾～＾） publish フォルダーの中に .exe が入ってるからダブルクリックしろだぜ☆（＾～＾）  
+![download-zip.png](./doc/img/download-zip.png) とかいうボタンを押して持っていけだぜ☆（＾～＾） publish フォルダーの中に .exe が入ってるからダブルクリックしろだぜ☆（＾～＾）  
 
 ## Example
 
