@@ -3,7 +3,7 @@
 
 ## Example
 
-![./doc/img/script-4.png]  
+![script-4.png](./doc/img/script-4.png)  
 
 See: [script-4.txt](./doc/script/script-4.txt)  
 
